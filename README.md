@@ -21,11 +21,14 @@
 - 📧 Email: [kumarsumit.ac@gmail.com](mailto:kumarsumit.ac@gmail.com)  
 - 💼 [GitHub Portfolio](https://github.com/HACKERDAVID7)
 
+### 📬 Social Handles
+
 <p align="left">
 <a href="https://www.kaggle.com/sumit208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sumit Kumar's Kaggle Profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumitkumar2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar's LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_sum.it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sumit Kumar's Instagram Handle" height="30" width="40" /></a>
 <a href="https://medium.com/@kumarsumit.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sumit Kumar's Medium Profile" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sumit2008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sumit Kumar's LeetCode Profile" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/kumarsuxzz1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sumit Kumar's GFG Profile" height="30" width="40" /></a>
 </p>
 
