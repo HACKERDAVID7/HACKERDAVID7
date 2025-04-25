@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - 🎓 I'm a Data Scientist currently pursuing my **MCA** at Lovely Professional University with a CGPA of **8.46**.
 - 💻 I love building machine learning applications and uncovering patterns from data using tools like Python, TensorFlow, and Power BI.
@@ -16,21 +16,69 @@
 
 ---
 
-### 🚀 My Tech Stack
+### My Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frameworks & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
+<h3 style="text-align: left;"> Languages and Tools:</h3>
+
+<p style="text-align: left;">
+    <!-- Programming Languages -->
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+
+  <!-- Data Science & ML Libraries -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="GCP" width="40" height="40"/></a>
+</p>
 
 ---
 
@@ -57,7 +105,7 @@
 
 ---
 
-### 🧠 HackerRank Ratings
+### HackerRank Ratings
 
 - 🌟 C++: 5⭐  
 - 🌟 SQL, Python, C: 4⭐
@@ -67,21 +115,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HACKERDAVID7&show_icons=true&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api?username=HACKERDAVID7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HACKERDAVID7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HACKERDAVID7&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERDAVID7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📬 Let's Connect!
 
 - 📧 Email: [kumarsumit.ac@gmail.com](mailto:kumarsumit.ac@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sumitkumar2001)  
 - 💼 [GitHub Portfolio](https://github.com/HACKERDAVID7)
+
+<p align="left">
+<a href="https://www.kaggle.com/sumit208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sumit Kumar's Kaggle Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumitkumar2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar's LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_sum.it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sumit Kumar's Instagram Handle" height="30" width="40" /></a>
+<a href="https://medium.com/@kumarsumit.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sumit Kumar's Medium Profile" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kumarsuxzz1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sumit Kumar's GFG Profile" height="30" width="40" /></a>
+</p>
 
 ---
 
-> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HACKERDAVID7&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
