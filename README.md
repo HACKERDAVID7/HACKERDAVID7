@@ -24,21 +24,20 @@
 ### 📬 Social Handles
 
 <p align="left">
-<a href="https://www.kaggle.com/sumit208" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sumit Kumar's Kaggle Profile" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumitkumar2001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar's LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_sum.it/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sumit Kumar's Instagram Handle" height="30" width="40" /></a>
-<a href="https://medium.com/@kumarsumit.ac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sumit Kumar's Medium Profile" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sumit2008/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sumit Kumar's LeetCode Profile" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kumarsuxzz1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sumit Kumar's GFG Profile" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/sumit-kumar.9e0217ec" target="_blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Sumit Kumar's Credly Profile" height="45" width="55"/></a>
-  
+  <a href="https://www.kaggle.com/sumit208" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sumit Kumar's Kaggle Profile" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sumitkumar2001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar's LinkedIn Profile" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/its_sum.it/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sumit Kumar's Instagram Handle" height="30" width="40" /></a>
+  <a href="https://medium.com/@kumarsumit.ac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sumit Kumar's Medium Profile" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/sumit2008/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sumit Kumar's LeetCode Profile" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/kumarsuxzz1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sumit Kumar's GFG Profile" height="30" width="40" /></a>
+  <a href="https://www.credly.com/users/sumit-kumar.9e0217ec" target="_blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Sumit Kumar's Credly Profile" height="45" width="55"/></a>
 </p>
 
 ---
 
 ### My Tech Stack
 
-**Languages**  
+**Languages:**  
 <!-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) -->
 <!-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) -->
 <!-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) -->
@@ -60,7 +59,7 @@
     </a>
 </p>
 
-**Frameworks & Tools** 
+**Frameworks & Tools:** 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
