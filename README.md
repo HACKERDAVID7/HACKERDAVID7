@@ -37,7 +37,7 @@
 
 ---
 
-<h3 style="text-align: left;"> Languages and Tools:</h3>
+<h3 style="text-align: left;"> Languages:</h3>
 
 <p style="text-align: left;">
     <!-- Programming Languages -->
@@ -56,8 +56,11 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     </a>
+</p>
 
   <!-- Data Science & ML Libraries -->
+<h3 style="text-align: left;"> ML Libraries:</h3>
+<p style="text-align: left;">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
@@ -68,8 +71,11 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+</p>
 
   <!-- Tools -->
+<h3 style="text-align: left;">Tools:</h3>
+<p style="text-align: left;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
