@@ -16,6 +16,21 @@
 
 ---
 
+### 📬 Let's Connect!
+
+- 📧 Email: [kumarsumit.ac@gmail.com](mailto:kumarsumit.ac@gmail.com)  
+- 💼 [GitHub Portfolio](https://github.com/HACKERDAVID7)
+
+<p align="left">
+<a href="https://www.kaggle.com/sumit208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sumit Kumar's Kaggle Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumitkumar2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar's LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_sum.it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sumit Kumar's Instagram Handle" height="30" width="40" /></a>
+<a href="https://medium.com/@kumarsumit.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sumit Kumar's Medium Profile" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kumarsuxzz1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sumit Kumar's GFG Profile" height="30" width="40" /></a>
+</p>
+
+---
+
 ### My Tech Stack
 
 **Languages**  
@@ -61,14 +76,14 @@
   <!-- Data Science & ML Libraries -->
 <h3 style="text-align: left;"> ML Libraries:</h3>
 <p style="text-align: left;">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
@@ -78,8 +93,10 @@
 <p style="text-align: left;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
+  <i class="fa-brands fa-square-github"></i>
+</a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
@@ -128,20 +145,6 @@
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERDAVID7&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
-
-### 📬 Let's Connect!
-
-- 📧 Email: [kumarsumit.ac@gmail.com](mailto:kumarsumit.ac@gmail.com)  
-- 💼 [GitHub Portfolio](https://github.com/HACKERDAVID7)
-
-<p align="left">
-<a href="https://www.kaggle.com/sumit208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sumit Kumar's Kaggle Profile" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumitkumar2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar's LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_sum.it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sumit Kumar's Instagram Handle" height="30" width="40" /></a>
-<a href="https://medium.com/@kumarsumit.ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sumit Kumar's Medium Profile" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kumarsuxzz1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sumit Kumar's GFG Profile" height="30" width="40" /></a>
 </p>
 
 ---
